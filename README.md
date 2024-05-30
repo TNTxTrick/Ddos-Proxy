@@ -3,3 +3,4 @@
 ```
 node methods.js https://gachthe365.vn/ 5000 50 50 go.txt
 ```
+Muốn có thêm `Proxy` thì hãy tự đào.
